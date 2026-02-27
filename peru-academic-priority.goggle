@@ -1,0 +1,53 @@
+! name: Peru Academic Priority
+! description: Boost trusted Peru university repositories and major scientific publishers for thesis research.
+! public: true
+! author: Cpolista
+! avatar: #0a7c41
+
+! Peru national research and thesis repositories
+$boost=10,site=alicia.concytec.gob.pe
+$boost=10,site=renati.sunedu.gob.pe
+$boost=9,site=repositorio.pucp.edu.pe
+$boost=9,site=cybertesis.unmsm.edu.pe
+$boost=9,site=repositorio.up.edu.pe
+$boost=9,site=repositorio.ulima.edu.pe
+$boost=9,site=repositorio.urp.edu.pe
+
+! Peru universities
+$boost=8,site=pucp.edu.pe
+$boost=8,site=urp.edu.pe
+$boost=8,site=unmsm.edu.pe
+$boost=8,site=uni.edu.pe
+$boost=8,site=unalm.edu.pe
+$boost=8,site=unac.edu.pe
+$boost=8,site=unsa.edu.pe
+$boost=8,site=up.edu.pe
+$boost=8,site=ulima.edu.pe
+$boost=8,site=udep.edu.pe
+$boost=7,site=usil.edu.pe
+$boost=7,site=usmp.edu.pe
+$boost=7,site=upeu.edu.pe
+$boost=7,site=ucontinental.edu.pe
+$boost=7,site=ucv.edu.pe
+$boost=7,site=utp.edu.pe
+$boost=7,site=unfv.edu.pe
+$boost=7,site=unsaac.edu.pe
+
+! International scientific publishers and indexes
+$boost=9,site=link.springer.com
+$boost=8,site=springer.com
+$boost=9,site=sciencedirect.com
+$boost=8,site=elsevier.com
+$boost=8,site=journals.elsevier.com
+$boost=8,site=onlinelibrary.wiley.com
+$boost=7,site=wiley.com
+$boost=8,site=tandfonline.com
+$boost=8,site=nature.com
+$boost=8,site=sagepub.com
+$boost=8,site=ieeexplore.ieee.org
+$boost=7,site=ieee.org
+$boost=8,site=dl.acm.org
+$boost=7,site=acm.org
+$boost=7,site=mdpi.com
+$boost=7,site=frontiersin.org
+$boost=7,site=doaj.org
